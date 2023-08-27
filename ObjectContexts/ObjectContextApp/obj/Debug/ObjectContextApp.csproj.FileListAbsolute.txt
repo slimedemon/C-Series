@@ -1,0 +1,8 @@
+E:\SourceCode\C#\C#Series\ObjectContexts\ObjectContextApp\bin\Debug\ObjectContextApp.exe.config
+E:\SourceCode\C#\C#Series\ObjectContexts\ObjectContextApp\bin\Debug\ObjectContextApp.exe
+E:\SourceCode\C#\C#Series\ObjectContexts\ObjectContextApp\bin\Debug\ObjectContextApp.pdb
+E:\SourceCode\C#\C#Series\ObjectContexts\ObjectContextApp\obj\Debug\ObjectContextApp.csproj.AssemblyReference.cache
+E:\SourceCode\C#\C#Series\ObjectContexts\ObjectContextApp\obj\Debug\ObjectContextApp.csproj.SuggestedBindingRedirects.cache
+E:\SourceCode\C#\C#Series\ObjectContexts\ObjectContextApp\obj\Debug\ObjectContextApp.csproj.CoreCompileInputs.cache
+E:\SourceCode\C#\C#Series\ObjectContexts\ObjectContextApp\obj\Debug\ObjectContextApp.exe
+E:\SourceCode\C#\C#Series\ObjectContexts\ObjectContextApp\obj\Debug\ObjectContextApp.pdb

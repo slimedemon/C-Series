@@ -1,0 +1,11 @@
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\bin\Release\CustomNamespace.exe.config
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\bin\Release\CustomNamespace.exe
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\bin\Release\CustomNamespace.pdb
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\obj\Release\CustomNamespace.csproj.AssemblyReference.cache
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\obj\Release\CustomNamespace.csproj.SuggestedBindingRedirects.cache
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\obj\Release\CustomNamespace.csproj.CoreCompileInputs.cache
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\obj\Release\CustomNamespace.exe
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\obj\Release\CustomNamespace.pdb
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\bin\Release\CarLibrary.dll
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\bin\Release\CarLibrary.pdb
+E:\SourceCode\C#\C#Series\CustomNamespace\CustomNamespace\obj\Release\CustomNamespace.csproj.CopyComplete

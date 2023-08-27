@@ -1,0 +1,8 @@
+E:\SourceCode\C#\C#Series\ApplicationDomain\ApplicationDomain\bin\Debug\ApplicationDomain.exe.config
+E:\SourceCode\C#\C#Series\ApplicationDomain\ApplicationDomain\bin\Debug\ApplicationDomain.exe
+E:\SourceCode\C#\C#Series\ApplicationDomain\ApplicationDomain\bin\Debug\ApplicationDomain.pdb
+E:\SourceCode\C#\C#Series\ApplicationDomain\ApplicationDomain\obj\Debug\ApplicationDomain.csproj.AssemblyReference.cache
+E:\SourceCode\C#\C#Series\ApplicationDomain\ApplicationDomain\obj\Debug\ApplicationDomain.csproj.SuggestedBindingRedirects.cache
+E:\SourceCode\C#\C#Series\ApplicationDomain\ApplicationDomain\obj\Debug\ApplicationDomain.csproj.CoreCompileInputs.cache
+E:\SourceCode\C#\C#Series\ApplicationDomain\ApplicationDomain\obj\Debug\ApplicationDomain.exe
+E:\SourceCode\C#\C#Series\ApplicationDomain\ApplicationDomain\obj\Debug\ApplicationDomain.pdb

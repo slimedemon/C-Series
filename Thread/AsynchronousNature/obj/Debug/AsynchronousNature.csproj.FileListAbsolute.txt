@@ -1,0 +1,8 @@
+E:\SourceCode\C#\C#Series\Thread\AsynchronousNature\bin\Debug\AsynchronousNature.exe.config
+E:\SourceCode\C#\C#Series\Thread\AsynchronousNature\bin\Debug\AsynchronousNature.exe
+E:\SourceCode\C#\C#Series\Thread\AsynchronousNature\bin\Debug\AsynchronousNature.pdb
+E:\SourceCode\C#\C#Series\Thread\AsynchronousNature\obj\Debug\AsynchronousNature.csproj.AssemblyReference.cache
+E:\SourceCode\C#\C#Series\Thread\AsynchronousNature\obj\Debug\AsynchronousNature.csproj.SuggestedBindingRedirects.cache
+E:\SourceCode\C#\C#Series\Thread\AsynchronousNature\obj\Debug\AsynchronousNature.csproj.CoreCompileInputs.cache
+E:\SourceCode\C#\C#Series\Thread\AsynchronousNature\obj\Debug\AsynchronousNature.exe
+E:\SourceCode\C#\C#Series\Thread\AsynchronousNature\obj\Debug\AsynchronousNature.pdb

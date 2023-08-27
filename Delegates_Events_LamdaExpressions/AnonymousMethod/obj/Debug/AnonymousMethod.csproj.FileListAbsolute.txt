@@ -1,0 +1,8 @@
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.AssemblyReference.cache
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.SuggestedBindingRedirects.cache
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\AnonymousMethod\obj\Debug\AnonymousMethod.pdb

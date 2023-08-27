@@ -1,0 +1,8 @@
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\Event\bin\Debug\Event.exe.config
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\Event\bin\Debug\Event.exe
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\Event\bin\Debug\Event.pdb
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\Event\obj\Debug\Event.csproj.AssemblyReference.cache
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\Event\obj\Debug\Event.csproj.SuggestedBindingRedirects.cache
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\Event\obj\Debug\Event.exe
+E:\SourceCode\C#\C#Series\Delegates_Events_LamdaExpressions\Event\obj\Debug\Event.pdb

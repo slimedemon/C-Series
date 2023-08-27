@@ -1,0 +1,8 @@
+E:\SourceCode\C#\C#Series\Thread\ParameterizedThreadStartDelegate\bin\Debug\ParameterizedThreadStartDelegate.exe.config
+E:\SourceCode\C#\C#Series\Thread\ParameterizedThreadStartDelegate\bin\Debug\ParameterizedThreadStartDelegate.exe
+E:\SourceCode\C#\C#Series\Thread\ParameterizedThreadStartDelegate\bin\Debug\ParameterizedThreadStartDelegate.pdb
+E:\SourceCode\C#\C#Series\Thread\ParameterizedThreadStartDelegate\obj\Debug\ParameterizedThreadStartDelegate.csproj.AssemblyReference.cache
+E:\SourceCode\C#\C#Series\Thread\ParameterizedThreadStartDelegate\obj\Debug\ParameterizedThreadStartDelegate.csproj.SuggestedBindingRedirects.cache
+E:\SourceCode\C#\C#Series\Thread\ParameterizedThreadStartDelegate\obj\Debug\ParameterizedThreadStartDelegate.csproj.CoreCompileInputs.cache
+E:\SourceCode\C#\C#Series\Thread\ParameterizedThreadStartDelegate\obj\Debug\ParameterizedThreadStartDelegate.exe
+E:\SourceCode\C#\C#Series\Thread\ParameterizedThreadStartDelegate\obj\Debug\ParameterizedThreadStartDelegate.pdb
