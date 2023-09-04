@@ -1,0 +1,13 @@
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.SuggestedBindingRedirects.cache
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+E:\SourceCode\C#\C#Series\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb

@@ -1,0 +1,8 @@
+E:\SourceCode\C#\C#Series\ObjectSerialization\ObjectSerialization\bin\Debug\ObjectSerialization.exe.config
+E:\SourceCode\C#\C#Series\ObjectSerialization\ObjectSerialization\bin\Debug\ObjectSerialization.exe
+E:\SourceCode\C#\C#Series\ObjectSerialization\ObjectSerialization\bin\Debug\ObjectSerialization.pdb
+E:\SourceCode\C#\C#Series\ObjectSerialization\ObjectSerialization\obj\Debug\ObjectSerialization.csproj.AssemblyReference.cache
+E:\SourceCode\C#\C#Series\ObjectSerialization\ObjectSerialization\obj\Debug\ObjectSerialization.csproj.SuggestedBindingRedirects.cache
+E:\SourceCode\C#\C#Series\ObjectSerialization\ObjectSerialization\obj\Debug\ObjectSerialization.csproj.CoreCompileInputs.cache
+E:\SourceCode\C#\C#Series\ObjectSerialization\ObjectSerialization\obj\Debug\ObjectSerialization.exe
+E:\SourceCode\C#\C#Series\ObjectSerialization\ObjectSerialization\obj\Debug\ObjectSerialization.pdb
